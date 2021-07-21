@@ -1,16 +1,16 @@
-### Hi there 👋
+### Holaaaa 👋
 
-<!--
-**gustavvrod/gustavvrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 Actualmente estudio Desarrollo web pero esto no se detendra aqui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🤔 Si tienes algo que recomendar puedes contactarme en mi facebook :point_down:
+ 
+ 
+ 📫 Mi facebook: https://www.facebook.com/gustavo.rodriguez.71271/
+ 
+ 
+ ⚡ :dog: team
+ 
+
+:runner:
+
