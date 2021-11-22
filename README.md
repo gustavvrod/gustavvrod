@@ -1,7 +1,7 @@
 ### Holaaaa 👋
 
 
-🌱 Actualmente estudio Desarrollo web pero esto no se detendra aqui
+🌱 Desarrollador web Front End HTML CSS JavaScript Vuejs 
 
  🤔 Si tienes algo que recomendar puedes contactarme en mi facebook :point_down:
  
